@@ -91,6 +91,7 @@ SSH (Secure Shell) key is like a digital ID card used to prove your identity whe
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 ***Important: If SSH key already existed, check carefully before overwrite***
+
 ![alt text](image-2.png)
 
 **2. Add SSH key**
