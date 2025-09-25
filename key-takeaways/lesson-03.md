@@ -50,7 +50,7 @@ git config --global init.defaultBranch main
     git branch -D <branch_name>
     ```
 - When using the `git log`, we see the list of commits as follows:
-![alt text](image.png)
+![alt text](image-3.png)
 In which, the part circled in red in the picture is called commit hash or revision. To return to revision (or simply understand it as going back to the past to see what your code was like at that time), we use `git checkout <revision>`  
 eg.  
     ```typescript
